@@ -1,0 +1,9 @@
+follow,600,450
+follow,400,220
+follow,800,100
+follow,600,520
+follow,50,150
+follow,700,440
+fall,400,490
+fall,410,490
+fall,420,490

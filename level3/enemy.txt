@@ -1,0 +1,3 @@
+follow,250,575
+follow,450,520
+follow,750,500
